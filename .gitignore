@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Streamlit
+.streamlit/
+
+# Local database
+*.db
+*.sqlite
+*.sqlite3
+
+# Generated model/cache files
+*.pkl
+*.joblib
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+
+# Temporary files
+*.tmp
+*.log

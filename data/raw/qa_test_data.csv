@@ -1,0 +1,26 @@
+id,text,expected_label
+TC001,আমি আজ খুব ভালো আছি,VALID_BENGALI
+TC002,তুমি কোথায় যাচ্ছ,VALID_BENGALI
+TC003,সে প্রতিদিন স্কুলে যায়,VALID_BENGALI
+TC004,আজ আবহাওয়া খুব সুন্দর,VALID_BENGALI
+TC005,আমার বাংলা গান শুনতে ভালো লাগে,VALID_BENGALI
+TC006,Ami aj khub bhalo achi,ROMANIZED_BENGALI
+TC007,Tumi kothay jaccho,ROMANIZED_BENGALI
+TC008,Se protidin school e jay,ROMANIZED_BENGALI
+TC009,Aaj abohawa khub sundor,ROMANIZED_BENGALI
+TC010,Ami bangla gaan shunte bhalobashi,ROMANIZED_BENGALI
+TC011,Ami আজ খুব ভালো আছি,MIXED_SCRIPT
+TC012,Tumi কোথায় যাচ্ছ,MIXED_SCRIPT
+TC013,সে প্রতিদিন school এ যায়,MIXED_SCRIPT
+TC014,Aaj আবহাওয়া খুব সুন্দর,MIXED_SCRIPT
+TC015,Ami বাংলা গান শুনতে ভালোবাসি,MIXED_SCRIPT
+TC016,আমি বাংলাই কথা বলি,SPELLING_ERROR
+TC017,সে বই পরতে ভালোবাসে,SPELLING_ERROR
+TC018,তুমি কেমন আসো,SPELLING_ERROR
+TC019,আমি আজকে বাড়ি জাবো,SPELLING_ERROR
+TC020,সে খুব ভালো গান গাই,SPELLING_ERROR
+TC021,হয়তো,AMBIGUOUS
+TC022,কেন,AMBIGUOUS
+TC023,আচ্ছা,AMBIGUOUS
+TC024,ঠিক আছে,AMBIGUOUS
+TC025,হুম,AMBIGUOUS

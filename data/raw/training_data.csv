@@ -1,0 +1,61 @@
+id,text,label
+TR001,আমি আজ খুব ভালো আছি,VALID_BENGALI
+TR002,তুমি কোথায় যাচ্ছ,VALID_BENGALI
+TR003,আজ আকাশ অনেক সুন্দর,VALID_BENGALI
+TR004,আমি প্রতিদিন সকালে হাঁটি,VALID_BENGALI
+TR005,সে খুব ভালো গান গায়,VALID_BENGALI
+TR006,আমার বাংলা পড়তে ভালো লাগে,VALID_BENGALI
+TR007,তুমি কি আজ স্কুলে যাবে,VALID_BENGALI
+TR008,আমরা সবাই মিলে খেলতে গেলাম,VALID_BENGALI
+TR009,বৃষ্টি হলে আমি বাড়িতে থাকি,VALID_BENGALI
+TR010,আমার মা খুব ভালো রান্না করেন,VALID_BENGALI
+TR011,আমি বই পড়তে পছন্দ করি,VALID_BENGALI
+TR012,আজ আমার মন খুব ভালো,VALID_BENGALI
+TR013,তুমি কেমন আছো,VALID_BENGALI
+TR014,আমি কলকাতায় থাকি,VALID_BENGALI
+TR015,কাল আমরা সিনেমা দেখতে যাব,VALID_BENGALI
+TR016,আজ অনেক কাজ আছে,VALID_BENGALI
+TR017,আমি বাংলা গান শুনছি,VALID_BENGALI
+TR018,তুমি আমার খুব ভালো বন্ধু,VALID_BENGALI
+TR019,সে প্রতিদিন অফিসে যায়,VALID_BENGALI
+TR020,আমরা আগামীকাল দেখা করব,VALID_BENGALI
+TR021,আমি ভাল আছি,SPELLING_ERROR
+TR022,তুমি কেমন আছ,SPELLING_ERROR
+TR023,আমি স্কুলে জাই,SPELLING_ERROR
+TR024,সে খুব ভাল গান গাই,SPELLING_ERROR
+TR025,আমার বানান ভুল হইছে,SPELLING_ERROR
+TR026,আমি বাংলাই কথা বলি,SPELLING_ERROR
+TR027,তুমি কোথাই থাকো,SPELLING_ERROR
+TR028,আজ আবহাওয়া খুব সুন্দোর,SPELLING_ERROR
+TR029,আমি প্রতিদিন হাটতে যাই,SPELLING_ERROR
+TR030,সে বই পরতে ভালোবাসে,SPELLING_ERROR
+TR031,Ami aj khub valo achi,ROMANIZED_BENGALI
+TR032,Tumi kothay jaccho,ROMANIZED_BENGALI
+TR033,Aj akash onek shundor,ROMANIZED_BENGALI
+TR034,Ami protidin sokale hati,ROMANIZED_BENGALI
+TR035,Se khub valo gaan gay,ROMANIZED_BENGALI
+TR036,Amar Bangla porte valo lage,ROMANIZED_BENGALI
+TR037,Tumi ki aj school e jabe,ROMANIZED_BENGALI
+TR038,Amra sobai mile khelte gelam,ROMANIZED_BENGALI
+TR039,Bristi hole ami barite thaki,ROMANIZED_BENGALI
+TR040,Amar ma khub valo ranna koren,ROMANIZED_BENGALI
+TR041,আমি aj ভালো আছি,MIXED_SCRIPT
+TR042,তুমি kothay যাচ্ছ,MIXED_SCRIPT
+TR043,Ami আজ ভালো আছি,MIXED_SCRIPT
+TR044,আমি school এ যাই,MIXED_SCRIPT
+TR045,সে very ভালো গান গায়,MIXED_SCRIPT
+TR046,আমার Bangla পড়তে ভালো লাগে,MIXED_SCRIPT
+TR047,Tumi কি আজ school এ যাবে,MIXED_SCRIPT
+TR048,আমি প্রতিদিন morning এ হাঁটি,MIXED_SCRIPT
+TR049,আজ আমার mood ভালো,MIXED_SCRIPT
+TR050,আমি office থেকে বাড়ি ফিরলাম,MIXED_SCRIPT
+TR051,ভালো আছো,AMBIGUOUS
+TR052,ঠিক আছে,AMBIGUOUS
+TR053,যাবো,AMBIGUOUS
+TR054,কেন,AMBIGUOUS
+TR055,হুম,AMBIGUOUS
+TR056,আচ্ছা,AMBIGUOUS
+TR057,হয়তো,AMBIGUOUS
+TR058,ঠিক,AMBIGUOUS
+TR059,দেখি,AMBIGUOUS
+TR060,চলো,AMBIGUOUS
